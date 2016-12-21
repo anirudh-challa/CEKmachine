@@ -1,8 +1,3 @@
-#Team Members
-#Abhishek Grover
-#Anirudh Challa
-#Viktor Jankov
-
 import re, sys, argparse
 import parserAST as AST
 import evaluator as evaluate
